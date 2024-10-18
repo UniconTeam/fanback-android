@@ -20,5 +20,7 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Fanback"
+
+includeBuild("build-conventions")
 include(":app")
  
